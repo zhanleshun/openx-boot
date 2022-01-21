@@ -8,7 +8,7 @@
         <version>2.6.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.github.zhanleshun</groupId>
+    <groupId>io.github.zhanleshun</groupId>
     <artifactId>openx-boot-booster</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>openx-boot-booster</name>
